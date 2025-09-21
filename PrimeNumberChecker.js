@@ -9,6 +9,6 @@ function isPrime(n) {
     return true;
 }
 
-const base = 3;
+const base = 7;
 const numberToCheck = base + 10;
 console.log(`${numberToCheck} is prime:`, isPrime(numberToCheck));

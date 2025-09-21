@@ -11,4 +11,4 @@ function showStars(base) {
     }
 }
 
-showStars(4);
+showStars(7);
